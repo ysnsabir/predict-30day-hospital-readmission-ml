@@ -62,6 +62,10 @@ The best-performing model is selected based on F1-score and ROC-AUC, prioritizin
 - No external validation
 - Model not intended for real-world clinical deployment
 
+## Walkthrough Video
+
+[Link to be added]
+
 ---
 
 ## Repository Structure
