@@ -1,0 +1,5 @@
+model,cv_accuracy_mean,cv_precision_mean,cv_recall_mean,cv_f1_mean,cv_roc_auc_mean
+Logistic Regression,0.674,0.1705,0.497,0.2539,0.638
+MLP Neural Network,0.8885,0.5321,0.011,0.0216,0.6402
+Gradient Boosting,0.8885,0.5375,0.009,0.0177,0.6658
+Random Forest,0.8879,0.3805,0.0067,0.0132,0.6253
