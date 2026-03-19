@@ -1,0 +1,8 @@
+
+---
+
+# Disclaimer
+
+This project is provided **for educational purposes only**.
+
+The model predictions should **not be used for medical diagnosis, treatment decisions, or patient care**.
