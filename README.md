@@ -91,28 +91,3 @@ The model prioritizes recall, meaning it successfully identifies approximately 5
 ---
 
 ## Repository Structure
-
-```
-capstone-readmission/
-│
-├── data/
-│   └── diabetic_data.csv
-│
-├── notebooks/
-│   └── capstone_readmission.ipynb
-│
-├── models/
-│   └── best_readmission_model.joblib
-│
-├── outputs/
-│   ├── model_comparison_results.csv
-│   └── readmission_model_results.pdf
-│
-├── report/
-│   └── written_responses.md
-│
-├── MODEL_CARD.md
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
