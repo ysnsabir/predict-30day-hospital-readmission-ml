@@ -86,7 +86,7 @@ The model prioritizes recall, meaning it successfully identifies approximately 5
 
 ## Walkthrough Video
 
-[Add your video link here]
+(https://drive.google.com/file/d/1ZGNVb_qhJIdtyZTgfhD-QnQYZPRRNbwj/view?usp=sharing)
 
 ---
 
